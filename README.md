@@ -1,4 +1,4 @@
-<h1>Hi, I'm Nancy, anIT Professional
+<h1>Hi, I'm Nancy, an  IT Professional
  
  Information Technology Projects
 
