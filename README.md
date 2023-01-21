@@ -1,6 +1,8 @@
-<h1>Hi, I'm Nancy, an  IT Professional
+<h1>   Hi, I'm Nancy, an  IT Professional
  
- Information Technology Projects
+ 
+ 
+ *Information Technology Projects*
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
