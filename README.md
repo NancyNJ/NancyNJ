@@ -1,5 +1,6 @@
-<h1>   Hi, I'm Nancy, an  IT Professional
- 
+<h1>   Hi, I'm Nancy, an  IT Support Professional
+  - Google IT Support Certification
+ - Course Careers Information Technology Course
  
  
  *Information Technology Projects*
