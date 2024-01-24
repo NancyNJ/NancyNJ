@@ -1,4 +1,5 @@
-<h1>   Hi, I'm Nancy, an  IT Support Professional
+<h1>   Hi, I'm Nancy, an  IT Support Analyst and Business Ops
+  
   - Western Governors University - BS BA, ITM
   - Google IT Support Certification
  - Course Careers Information Technology Course
