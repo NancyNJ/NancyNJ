@@ -1,6 +1,7 @@
-<h1>   Hi, I'm Nancy, an  IT Support Analyst and Business Ops
+<h1>   Hi, I'm Nancy, an  IT Support Analyst, Business Ops and Administration 
   
   - Western Governors University - BS BA, ITM
+  - Presbyterian University of East Africa
   - Google IT Support Certification
  - Course Careers Information Technology Course
  
